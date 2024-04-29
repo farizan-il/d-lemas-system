@@ -1,4 +1,4 @@
-Digital Learning Management System (Di-Lemas)
+# Digital Learning Management System (Di-Lemas)
 
 Repositori ini dibuat untuk memenuhi tugas mata kuliah Web Programming 2 yang bertujuan untuk mendalami konsep-konsep MVC di Codeigniter 3 dalam menggembangankan aplikasi web
 
