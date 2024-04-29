@@ -8,12 +8,12 @@ Repositori ini dibuat untuk memenuhi tugas mata kuliah Web Programming 2 yang be
 
 Ini Adalah Menu Input awal untuk memasukan data siswa, tanpa menggunakan database  
 
-![](assets/input-data.png)
+![](assets/demo/input-data.png)
 
 
 Ini Adalah Menu Input kedua yaitu menampilkan data yang sudah di input sebelumnya  
 
-![](assets/output-data.png)
+![](assets/demo/output-data.png)
 
 **************************
 
