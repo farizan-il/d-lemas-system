@@ -1,4 +1,4 @@
-# Digital Learning Management System (Di-Lemas)
+Digital Learning Management System (Di-Lemas)
 
 Repositori ini dibuat untuk memenuhi tugas mata kuliah Web Programming 2 yang bertujuan untuk mendalami konsep-konsep MVC di Codeigniter 3 dalam menggembangankan aplikasi web
 
@@ -6,11 +6,11 @@ Repositori ini dibuat untuk memenuhi tugas mata kuliah Web Programming 2 yang be
 Demo D-Lemas
 *******************
 
-Ini Adalah Menu Input awal untuk memasukan data siswa, tanpa menggunakan database
+Ini Adalah Menu Input awal untuk memasukan data siswa, tanpa menggunakan database  
 ![input data siswa](assets/demo/input-data.png)
 
-Ini Adalah Menu Input kedua yaitu menampilkan data yang sudah di input sebelumnya
-![input data siswa](assets/demo/output-data.png)
+Ini Adalah Menu Input kedua yaitu menampilkan data yang sudah di input sebelumnya  
+![output data siswa](assets/demo/output-data.png)
 
 **************************
 Features
