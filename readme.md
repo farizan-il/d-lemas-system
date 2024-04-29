@@ -19,7 +19,7 @@ Ini Adalah Menu Input kedua yaitu menampilkan data yang sudah di input sebelumny
 
 Features
 
-Sebenarnya masih banyak fitur yang harus di buat, dikarnakan perintahnya input dan output data. maka fitur nya cuman ada 2 yaitu:
+Sebenarnya masih banyak fitur yang harus di buat, dikarnakan perintahnya input dan output data. maka fitur yang dibuat cuman ada 2 yaitu:
 * Input Siswa
 * Tampil Data Siswa
 
