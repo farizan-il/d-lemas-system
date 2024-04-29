@@ -7,10 +7,10 @@ Demo D-Lemas
 *******************
 
 Ini Adalah Menu Input awal untuk memasukan data siswa, tanpa menggunakan database  
-![input data siswa](assets/demo/input-data.png)
+![](assets/input-data.png)
 
 Ini Adalah Menu Input kedua yaitu menampilkan data yang sudah di input sebelumnya  
-![output data siswa](assets/demo/output-data.png)
+![](assets/output-data.png)
 
 **************************
 Features
